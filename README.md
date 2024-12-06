@@ -45,7 +45,7 @@ I'm Aimad Bouya, currently in my second year at the Higher School of Technology 
 
 ### 🌱 Current Learning Journey
 
-I'm expanding my skills in *Linux OS* 🐧, *Computer Vision* 👁️, *IoT* 🌐, *Artificial Intelligence* 🤖, and *Machine Learning* 📊 to build a strong foundation for a career in AI and emerging tech.
+I'm expanding my skills in Linux OS 🐧, Computer Vision 👁️, IoT 🌐, Artificial Intelligence 🤖, and Machine Learning📊 to build a strong foundation for a career in AI and emerging tech.
 ---
 
 ### 📊 GitHub Stats
